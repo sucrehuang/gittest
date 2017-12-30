@@ -8,6 +8,5 @@ public class SayHello {
 		String test = "天使的翅膀";
 		String test_1 = "等下一个天亮";
 		System.out.println("test"+SdKeyEnum.TD_CHECK_RSP.getRemark());
-		
 	}
 }
