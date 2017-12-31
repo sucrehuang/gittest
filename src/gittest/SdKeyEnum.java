@@ -2,8 +2,8 @@ package gittest;
 
 public enum SdKeyEnum {
 
-	TD_CHECK_RSP("联网查询结果");
-	
+	TD_CHECK_RSP("联网查询结果"),
+	TD_UPDATE_RSP("联网查询结果");
 	private String remark;
 	
 	private SdKeyEnum(String remark){
